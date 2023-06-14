@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FrontCloudCamp/static/css/main.63ee4516.css",
+    "main.js": "/FrontCloudCamp/static/js/main.421ae44c.js",
+    "index.html": "/FrontCloudCamp/index.html",
+    "main.63ee4516.css.map": "/FrontCloudCamp/static/css/main.63ee4516.css.map",
+    "main.421ae44c.js.map": "/FrontCloudCamp/static/js/main.421ae44c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63ee4516.css",
+    "static/js/main.421ae44c.js"
+  ]
+}
